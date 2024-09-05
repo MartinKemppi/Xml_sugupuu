@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<sugupuu>
+	<inimene synniaasta="1938">
+		<nimi>Olga</nimi>
+		<synniaasta>1938</synniaasta>
+		<synnikoht>Nižnii novgorod</synnikoht>
+		<lapsed>
+			<inimene synniaasta="1971">
+				<nimi>Inessa</nimi>
+				<synniaasta>1971</synniaasta>
+				<synnikoht>Tallinn</synnikoht>
+			</inimene>
+			<inimene synniaasta="1969">
+				<nimi>Natalia</nimi>
+				<synniaasta>1969</synniaasta>
+				<synnikoht>Tallinn</synnikoht>
+			</inimene>
+		</lapsed>
+	</inimene>
+
+	<inimene synniaasta="1936">
+		<nimi>Vladimir</nimi>
+		<synniaasta>1936</synniaasta>
+		<synnikoht>Peterburi</synnikoht>
+		<lapsed>
+			<inimene synniaasta="1971">
+				<nimi>Inessa</nimi>
+				<synniaasta>1971</synniaasta>
+				<synnikoht>Tallinn</synnikoht>
+			</inimene>
+			<inimene synniaasta="1969">
+				<nimi>Natalia</nimi>
+				<synniaasta>1969</synniaasta>
+				<synnikoht>Tallinn</synnikoht>
+			</inimene>
+		</lapsed>
+	</inimene>
+
+	<inimene synniaasta="1969">
+		<nimi>Natalia</nimi>
+		<synniaasta>1969</synniaasta>
+		<synnikoht>Tallinn</synnikoht>
+		<lapsed>
+			<inimene synniaasta="1988">
+				<nimi>Dmitri</nimi>
+				<synniaasta>1988</synniaasta>
+				<synnikoht>Tallinn</synnikoht>
+			</inimene>
+			<inimene synniaasta="1994">
+				<nimi>Maksim</nimi>
+				<synniaasta>1994</synniaasta>
+				<synnikoht>Tallinn</synnikoht>
+			</inimene>
+		</lapsed>
+	</inimene>
+
+	<inimene synniaasta="1963">
+		<nimi>Vadim</nimi>
+		<synniaasta>1963</synniaasta>
+		<synnikoht>Tallinn</synnikoht>
+		<lapsed>
+			<inimene synniaasta="1988">
+				<nimi>Dmitri</nimi>
+				<synniaasta>1988</synniaasta>
+				<synnikoht>Tallinn</synnikoht>
+			</inimene>
+			<inimene synniaasta="1994">
+				<nimi>Maksim</nimi>
+				<synniaasta>1994</synniaasta>
+				<synnikoht>Tallinn</synnikoht>
+			</inimene>
+		</lapsed>
+	</inimene>
+
+	<inimene synniaasta="1971">
+		<nimi>Inessa</nimi>
+		<synniaasta>1971</synniaasta>
+		<synnikoht>Tallinn</synnikoht>
+		<lapsed>
+			<inimene synniaasta="1999">
+				<nimi>Martin</nimi>
+				<synniaasta>1999</synniaasta>
+				<synnikoht>Tallinn</synnikoht>
+			</inimene>
+			<inimene synniaasta="1994">
+				<nimi>Kristina</nimi>
+				<synniaasta>1994</synniaasta>
+				<synnikoht>Tallinn</synnikoht>
+			</inimene>
+		</lapsed>
+	</inimene>
+
+	<inimene synniaasta="1968">
+		<nimi>Andres</nimi>
+		<synniaasta>1968</synniaasta>
+		<synnikoht>Tallinn</synnikoht>
+		<lapsed>
+			<inimene synniaasta="1999">
+				<nimi>Martin</nimi>
+				<synniaasta>1999</synniaasta>
+				<synnikoht>Tallinn</synnikoht>
+			</inimene>
+			<inimene synniaasta="2005">
+				<nimi>Karina</nimi>
+				<synniaasta>2005</synniaasta>
+				<synnikoht>Tallinn</synnikoht>
+			</inimene>
+		</lapsed>
+	</inimene>
+</sugupuu>
