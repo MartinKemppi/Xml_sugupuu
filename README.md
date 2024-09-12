@@ -1,3 +1,5 @@
+[SQL/XML failid](https://github.com/MartinKemppi/HajusRakendused)
+
 ![schema](https://github.com/user-attachments/assets/51b1f41d-6ffd-43c7-8ac9-76580a8c4239)
 ![harjutus1](https://github.com/user-attachments/assets/39bd6426-ba2f-49e5-8e4e-713f64a535fd)
 ![harjutus2](https://github.com/user-attachments/assets/2ddc1ecb-7be1-4879-97fa-7b5cc47fce09)
