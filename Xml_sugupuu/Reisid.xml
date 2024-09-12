@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<reisid>
+	<reis kuupaev="2025-01-13">
+		<kuupaev>2025-01-13</kuupaev>
+		<suund>
+			<alguskoht>?abban</alguskoht>
+			<loppkoht>Mentaraman Satu</loppkoht>
+		</suund>
+		<lennujaam>QDY</lennujaam>
+		<transport>Taean Airport</transport>
+		<hind>989</hind>
+		<ettevote>Skippad</ettevote>
+	</reis>
+	<reis kuupaev="2024-12-18">
+		<kuupaev>2024-12-18</kuupaev>
+		<suund>
+			<alguskoht>Checun</alguskoht>
+			<loppkoht>Srokowo</loppkoht>
+		</suund>
+		<lennujaam>HYV</lennujaam>
+		<transport>Hyvinkää Airfield</transport>
+		<hind>809</hind>
+		<ettevote>Edgeclub</ettevote>
+	</reis>
+	<reis kuupaev="2024-10-25">
+		<kuupaev>2024-10-25</kuupaev>
+		<suund>
+			<alguskoht>Nal’chik</alguskoht>
+			<loppkoht>Cukangpanjang</loppkoht>
+		</suund>
+		<lennujaam>PZH</lennujaam>
+		<transport>Zhob Airport</transport>
+		<hind>397</hind>
+		<ettevote>Rhybox</ettevote>
+	</reis>
+	<reis kuupaev="2025-09-04">
+		<kuupaev>2025-09-04</kuupaev>
+		<suund>
+			<alguskoht>Riosucio</alguskoht>
+			<loppkoht>Kudahuvadhoo</loppkoht>
+		</suund>
+		<lennujaam>OUE</lennujaam>
+		<transport>Ouesso Airport</transport>
+		<hind>815</hind>
+		<ettevote>Jabberbean</ettevote>
+	</reis>
+	<reis kuupaev="2025-06-23">
+		<kuupaev>2025-06-23</kuupaev>
+		<suund>
+			<alguskoht>Rudziczka</alguskoht>
+			<loppkoht>Jaú</loppkoht>
+		</suund>
+		<lennujaam>THU</lennujaam>
+		<transport>Thule Air Base</transport>
+		<hind>967</hind>
+		<ettevote>Flashset</ettevote>
+	</reis>
+	<reis kuupaev="2025-07-01">
+		<kuupaev>2025-07-01</kuupaev>
+		<suund>
+			<alguskoht>Bayanhongor</alguskoht>
+			<loppkoht>Almeirim</loppkoht>
+		</suund>
+		<lennujaam>KDL</lennujaam>
+		<transport>Kärdla Airport</transport>
+		<hind>657</hind>
+		<ettevote>Abata</ettevote>
+	</reis>
+	<reis kuupaev="2025-06-16">
+		<kuupaev>2025-06-16</kuupaev>
+		<suund>
+			<alguskoht>Lidköping</alguskoht>
+			<loppkoht>Belén de Umbría</loppkoht>
+		</suund>
+		<lennujaam>PDR</lennujaam>
+		<transport>Presidente José Sarney Airport</transport>
+		<hind>374</hind>
+		<ettevote>Oozz</ettevote>
+	</reis>
+	<reis kuupaev="2024-10-16">
+		<kuupaev>2024-10-16</kuupaev>
+		<suund>
+			<alguskoht>Ínfias</alguskoht>
+			<loppkoht>Oslo</loppkoht>
+		</suund>
+		<lennujaam>SEV</lennujaam>
+		<transport>Sievierodonetsk Airport</transport>
+		<hind>847</hind>
+		<ettevote>Zoovu</ettevote>
+	</reis>
+	<reis kuupaev="2025-08-04">
+		<kuupaev>2025-08-04</kuupaev>
+		<suund>
+			<alguskoht>Bambang</alguskoht>
+			<loppkoht>Staritsa</loppkoht>
+		</suund>
+		<lennujaam>HBG</lennujaam>
+		<transport>Hattiesburg Bobby L Chain Municipal Airport</transport>
+		<hind>933</hind>
+		<ettevote>Yadel</ettevote>
+	</reis>
+	<reis kuupaev="2025-03-03">
+		<kuupaev>2025-03-03</kuupaev>
+		<suund>
+			<alguskoht>Tupambaé</alguskoht>
+			<loppkoht>Norberg</loppkoht>
+		</suund>
+		<lennujaam>QDC</lennujaam>
+		<transport>Dracena Airport</transport>
+		<hind>127</hind>
+		<ettevote>Zava</ettevote>
+	</reis>
+	<reis kuupaev="2025-05-11">
+		<kuupaev>2025-05-11</kuupaev>
+		<suund>
+			<alguskoht>Bariri</alguskoht>
+			<loppkoht>Cowansville</loppkoht>
+		</suund>
+		<lennujaam>BRP</lennujaam>
+		<transport>Biaru Airport</transport>
+		<hind>740</hind>
+		<ettevote>Eire</ettevote>
+	</reis>
+	<reis kuupaev="2025-04-12">
+		<kuupaev>2025-04-12</kuupaev>
+		<suund>
+			<alguskoht>Cunén</alguskoht>
+			<loppkoht>Zhaixi</loppkoht>
+		</suund>
+		<lennujaam>LTD</lennujaam>
+		<transport>Ghadames East Airport</transport>
+		<hind>914</hind>
+		<ettevote>Voonyx</ettevote>
+	</reis>
+	<reis kuupaev="2025-01-19">
+		<kuupaev>2025-01-19</kuupaev>
+		<suund>
+			<alguskoht>Tsurugi-asahimachi</alguskoht>
+			<loppkoht>San Luis del Palmar</loppkoht>
+		</suund>
+		<lennujaam>YKD</lennujaam>
+		<transport>Kincardine Municipal Airport</transport>
+		<hind>183</hind>
+		<ettevote>Eazzy</ettevote>
+	</reis>
+	<reis kuupaev="2025-04-09">
+		<kuupaev>2025-04-09</kuupaev>
+		<suund>
+			<alguskoht>Machala</alguskoht>
+			<loppkoht>Río Gallegos</loppkoht>
+		</suund>
+		<lennujaam>FAK</lennujaam>
+		<transport>False Island Seaplane Base</transport>
+		<hind>626</hind>
+		<ettevote>Thoughtworks</ettevote>
+	</reis>
+	<reis kuupaev="2025-04-08">
+		<kuupaev>2025-04-08</kuupaev>
+		<suund>
+			<alguskoht>Flushing</alguskoht>
+			<loppkoht>Fontinha</loppkoht>
+		</suund>
+		<lennujaam>DYL</lennujaam>
+		<transport>Doylestown Airport</transport>
+		<hind>446</hind>
+		<ettevote>Thoughtstorm</ettevote>
+	</reis>
+	<reis kuupaev="2024-12-03">
+		<kuupaev>2024-12-03</kuupaev>
+		<suund>
+			<alguskoht>Diriamba</alguskoht>
+			<loppkoht>Marseille</loppkoht>
+		</suund>
+		<lennujaam>MBK</lennujaam>
+		<transport>Regional Orlando Villas Boas Airport</transport>
+		<hind>862</hind>
+		<ettevote>Oyoloo</ettevote>
+	</reis>
+	<reis kuupaev="2025-05-23">
+		<kuupaev>2025-05-23</kuupaev>
+		<suund>
+			<alguskoht>Södertälje</alguskoht>
+			<loppkoht>Bembèrèkè</loppkoht>
+		</suund>
+		<lennujaam>TCK</lennujaam>
+		<transport>Tinboli Airport</transport>
+		<hind>728</hind>
+		<ettevote>Trudeo</ettevote>
+	</reis>
+	<reis kuupaev="2024-09-20">
+		<kuupaev>2024-09-20</kuupaev>
+		<suund>
+			<alguskoht>Kurovskoye</alguskoht>
+			<loppkoht>Tobatí</loppkoht>
+		</suund>
+		<lennujaam>ULV</lennujaam>
+		<transport>Ulyanovsk Baratayevka Airport</transport>
+		<hind>637</hind>
+		<ettevote>LiveZ</ettevote>
+	</reis>
+	<reis kuupaev="2025-01-29">
+		<kuupaev>2025-01-29</kuupaev>
+		<suund>
+			<alguskoht>Chajarí</alguskoht>
+			<loppkoht>Madrid</loppkoht>
+		</suund>
+		<lennujaam>AGZ</lennujaam>
+		<transport>Aggeneys Airport</transport>
+		<hind>665</hind>
+		<ettevote>Buzzshare</ettevote>
+	</reis>
+	<reis kuupaev="2025-03-01">
+		<kuupaev>2025-03-01</kuupaev>
+		<suund>
+			<alguskoht>Zhuangbian</alguskoht>
+			<loppkoht>Chambas</loppkoht>
+		</suund>
+		<lennujaam>MGN</lennujaam>
+		<transport>Baracoa Airport</transport>
+		<hind>173</hind>
+		<ettevote>Aimbu</ettevote>
+	</reis>
+	<reis kuupaev="2025-09-07">
+		<kuupaev>2025-09-07</kuupaev>
+		<suund>
+			<alguskoht>Rendian</alguskoht>
+			<loppkoht>Gornyye Klyuchi</loppkoht>
+		</suund>
+		<lennujaam>OVS</lennujaam>
+		<transport>Sovetskiy Airport</transport>
+		<hind>712</hind>
+		<ettevote>Eare</ettevote>
+	</reis>
+	<reis kuupaev="2024-11-14">
+		<kuupaev>2024-11-14</kuupaev>
+		<suund>
+			<alguskoht>Eslöv</alguskoht>
+			<loppkoht>Feira de Santana</loppkoht>
+		</suund>
+		<lennujaam>QNV</lennujaam>
+		<transport>Aeroclube Airport</transport>
+		<hind>172</hind>
+		<ettevote>Browseblab</ettevote>
+	</reis>
+	<reis kuupaev="2024-11-02">
+		<kuupaev>2024-11-02</kuupaev>
+		<suund>
+			<alguskoht>Yanling</alguskoht>
+			<loppkoht>Sukasari</loppkoht>
+		</suund>
+		<lennujaam>NQT</lennujaam>
+		<transport>Nottingham Airport</transport>
+		<hind>836</hind>
+		<ettevote>BlogXS</ettevote>
+	</reis>
+	<reis kuupaev="2025-06-03">
+		<kuupaev>2025-06-03</kuupaev>
+		<suund>
+			<alguskoht>Doibang</alguskoht>
+			<loppkoht>Rizal</loppkoht>
+		</suund>
+		<lennujaam>CHU</lennujaam>
+		<transport>Chuathbaluk Airport</transport>
+		<hind>862</hind>
+		<ettevote>Browsedrive</ettevote>
+	</reis>
+	<reis kuupaev="2025-07-11">
+		<kuupaev>2025-07-11</kuupaev>
+		<suund>
+			<alguskoht>Zhuji</alguskoht>
+			<loppkoht>Barkhan</loppkoht>
+		</suund>
+		<lennujaam>RCQ</lennujaam>
+		<transport>Reconquista Airport</transport>
+		<hind>551</hind>
+		<ettevote>Fadeo</ettevote>
+	</reis>
+	<reis kuupaev="2025-06-20">
+		<kuupaev>2025-06-20</kuupaev>
+		<suund>
+			<alguskoht>Alfeizerão</alguskoht>
+			<loppkoht>Podu</loppkoht>
+		</suund>
+		<lennujaam>AKG</lennujaam>
+		<transport>Anguganak Airport</transport>
+		<hind>342</hind>
+		<ettevote>Trudoo</ettevote>
+	</reis>
+	<reis kuupaev="2025-02-03">
+		<kuupaev>2025-02-03</kuupaev>
+		<suund>
+			<alguskoht>Wuping</alguskoht>
+			<loppkoht>San Antonio</loppkoht>
+		</suund>
+		<lennujaam>TMF</lennujaam>
+		<transport>Thimarafushi Airport</transport>
+		<hind>290</hind>
+		<ettevote>Vipe</ettevote>
+	</reis>
+	<reis kuupaev="2025-08-18">
+		<kuupaev>2025-08-18</kuupaev>
+		<suund>
+			<alguskoht>Lyubertsy</alguskoht>
+			<loppkoht>Fazhan</loppkoht>
+		</suund>
+		<lennujaam>LMT</lennujaam>
+		<transport>Crater Lake-Klamath Regional Airport</transport>
+		<hind>837</hind>
+		<ettevote>Gigazoom</ettevote>
+	</reis>
+	<reis kuupaev="2025-06-28">
+		<kuupaev>2025-06-28</kuupaev>
+		<suund>
+			<alguskoht>Linhó</alguskoht>
+			<loppkoht>Baunu-Timbangan</loppkoht>
+		</suund>
+		<lennujaam>BYA</lennujaam>
+		<transport>Boundary Airport</transport>
+		<hind>468</hind>
+		<ettevote>Linkbuzz</ettevote>
+	</reis>
+	<reis kuupaev="2024-09-23">
+		<kuupaev>2024-09-23</kuupaev>
+		<suund>
+			<alguskoht>Zhonghechang</alguskoht>
+			<loppkoht>Heqiao</loppkoht>
+		</suund>
+		<lennujaam>TGA</lennujaam>
+		<transport>Tengah Air Base</transport>
+		<hind>692</hind>
+		<ettevote>Trilia</ettevote>
+	</reis>
+</reisid> 

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="reisid">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" name="reis">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="kuupaev" type="xs:date" />
+							<xs:element name="suund">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="alguskoht" type="xs:string" />
+										<xs:element name="loppkoht" type="xs:string" />
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="lennujaam" type="xs:string" />
+							<xs:element name="transport" type="xs:string" />
+							<xs:element name="hind" type="xs:unsignedShort" />
+							<xs:element name="ettevote" type="xs:string" />
+						</xs:sequence>
+						<xs:attribute name="kuupaev" type="xs:date" use="required" />
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

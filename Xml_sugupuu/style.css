@@ -1,4 +1,9 @@
 ﻿table, td, th {
     border-collapse: collapse;
     border: 1px solid black;
+
+}
+
+#h8 tr:nth-child(even) {
+    background-color: #00BFFF;
 }
